@@ -2,6 +2,7 @@
 
 **Hyperlocal Emergency Life-Saving Supply Tracker for Rural India**
 
+Hackathon prototype for Deviathon 2.0 — Dev Squad.
 
 ## What it does
 
